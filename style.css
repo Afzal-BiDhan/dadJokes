@@ -1,0 +1,29 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{background-color: #5252cf;}
+
+.jokes_info{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 750px;
+    margin: auto;
+    margin-top: 170px;
+    border-radius: 12px;
+}
+.jokes_info h2{
+    font-family: 'Caveat', cursive;
+    font-weight: 700;
+    padding-top: 34px;
+    margin-bottom: 30px;
+    color: #8f8f8f;
+}
+.joke{
+    font-family: 'Berkshire Swash', cursive;
+    margin: 16px;
+}
+.btn{
+    font-weight: 800;
+    background-color: orange;
+    margin-top: 30px;
+    border-radius: 10px;
+}
